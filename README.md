@@ -12,7 +12,7 @@ Saucedemo is demo site that imitates online shop (login, listing items, adding t
 Only run on Google Chrome browser is supported now.
 
 ## How to run tests
-- Get chromedriver for your Chrome browser version on [download page](https://chromedriver.chromium.org/downloads  
+- Get chromedriver for your Chrome browser version on [download page](https://chromedriver.chromium.org/downloads)  
 Unzip it and add chromedriver.exe location directory PATH variable
 - Run `pip install -r requirements.txt`  
 - Run `robot tests`  
